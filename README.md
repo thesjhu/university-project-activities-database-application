@@ -33,6 +33,8 @@ The conceptual model defines the key entities and their strong, weak, and associ
   * **FUND:** Manages financial allocations and balances, linked to PROJECTs (fund relationship).
   * **SPONSOR:** Tracks external and internal sponsors who contribute funds.
 
+![screenshot1](screenshot1.png)
+
 ### Relational Schema & Implementation
 
 The E-R model was translated into a normalized relational schema, ensuring data integrity and minimal redundancy. This involved:
