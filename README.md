@@ -1,14 +1,14 @@
-# 🎓 University Project Activity Tracker (UPAT) Database System
+# University Project Activity Tracker (UPAT) Database System
 
-## 🌟 Project Overview
+## Project Overview
 
 This repository documents the complete lifecycle of designing and developing the **University Project Activity Tracker (UPAT)**, a robust database application. UPAT is designed to assist a university administration in efficiently tracking and managing project activities, associated funding, and faculty involvement across various academic departments.
 
 This project encompassed the full spectrum of database development, from initial business analysis and conceptual modeling to physical implementation and **advanced data visualization**.
 
-> **🏆 Final Project for Data Visualization Course: Scored 10/10**
+> **Final Project for Data Visualization Course: Scored 10/10**
 
-## 📊 Data Visualization & Analysis
+## Data Visualization & Analysis
 
 The capstone of this project involved turning complex relational data into insightful, actionable visualizations. We used a powerful combination of tools and libraries to create both static and interactive dashboards.
 
@@ -18,7 +18,7 @@ The capstone of this project involved turning complex relational data into insig
 | **Statistical Visualizations** | **Python (Seaborn)** | Created detailed, aesthetically pleasing statistical plots (e.g., heatmaps, box plots, time-series analysis) for deep-dive analysis into project and fund balance trends. |
 | **Interactive Grammar of Graphics** | **Python (Altair)** | Built highly interactive, declarative visualizations that allow users to explore relationships between entities (e.g., Sponsor-to-Fund relationships, Faculty-to-Project contribution). |
 
-## 💡 Key Database Design Highlights
+## Key Database Design Highlights
 
 The database was meticulously designed to handle the complex relationships inherent in academic project management. The core entities and their relationships are captured in the provided Entity-Relationship (E-R) Diagram.
 
@@ -43,7 +43,7 @@ The E-R model was translated into a normalized relational schema, ensuring data 
 2.  **Schema Definition:** Creating the tables, defining primary and foreign keys, and implementing referential integrity constraints.
 3.  **Physical Implementation:** Executing the Data Definition Language (DDL) and populating the system with sample data for testing and visualization.
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 | Component | Technology | Role |
 | :--- | :--- | :--- |
@@ -53,7 +53,7 @@ The E-R model was translated into a normalized relational schema, ensuring data 
 | **Visualization** | **Python (Seaborn, Altair)** | Advanced statistical and interactive plotting |
 | **Database** | SQL / Relational Database System (e.g., MySQL, PostgreSQL) | Database implementation and querying |
 
-## 🚀 Getting Started
+## Getting Started
 
 To explore the project:
 
